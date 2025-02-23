@@ -9,12 +9,31 @@ A **feature-rich** community platform built with **Laravel**, providing a seamle
 ## 🚀 Features
 
 ✅ **Blog System** - Users can create, edit, and manage blog posts.
+
+![Laravel Community Platform](project-image/image2.png)
+
 ✅ **Forum** - Engage in topic-based discussions.
+
+![Laravel Community Platform](project-image/image3.png)
+
 ✅ **Video Sharing** - Upload and share videos easily.
+
+![Laravel Community Platform](project-image/image4.png)
+
 ✅ **Groups** - Create and manage public or private groups.
+
+![Laravel Community Platform](project-image/image5.png)
+
 ✅ **Admin Panel** - Manage categories, content, and users with ease.
+
+![Laravel Community Platform](project-image/image6.png)
+
 ✅ **User Authentication** - Secure login and registration system.
+
+![Laravel Community Platform](project-image/image9.png)
+
 ✅ **Responsive UI** - Mobile-friendly design.
+
 ✅ **Role Management** - Assign user roles and permissions.
 
 ---
@@ -23,7 +42,7 @@ A **feature-rich** community platform built with **Laravel**, providing a seamle
 
 ### ⚡ Requirements
 - **PHP** 8.0+
-- **Laravel** 10+
+- **Laravel** 11+
 - **MySQL/PostgreSQL** database
 - **Composer** (Dependency Manager)
 - **Node.js & NPM** (For frontend assets)
